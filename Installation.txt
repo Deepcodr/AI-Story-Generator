@@ -1,0 +1,29 @@
+** /ai-story-generator contains frontend code **
+** /story-generator-backend contains backend code ** 
+
+************Database Configuration********************
+Create a New MongoDB Database with name 'aistorygen'
+
+create following collections inside it :
+1) 'user'
+2) 'stories'
+3) 'feed'
+4) 'sessions'
+5) 'upvotes'
+
+*************Frontend Configuration********************
+Open Terminal From Frontend Folder And install modules using Below command 
+
+npm i
+
+*************Backend Configuration**********************
+Open Terminal From Backend Folder And install modules using Below command
+
+npm i
+
+*********************************************************
+Project uses deepAI quickstart API key if you want unlimited API calls insert your OWN API key in /generatestory route.
+
+Start the frontend backend using below command in respective folders .
+
+npm start
