@@ -11,6 +11,8 @@ create following collections inside it :
 4) 'sessions'
 5) 'upvotes'
 
+replace MongoDB URL if you are not using local database.    
+
 *************Frontend Configuration********************
 Open Terminal From Frontend Folder And install modules using Below command 
 
